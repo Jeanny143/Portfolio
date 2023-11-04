@@ -82,6 +82,16 @@
     <section id="portfolio" class="container mt-5">
         <h2>Portfolio</h2>
         <!-- Add your projects here -->
+
+      <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
+            <img src="jean.jpg" class="img-fluid" alt="">
+                <div class="social">
+                  <a href="https://twitter.com/JeanAyen194243" target="_blank"><i class="bi bi-twitter"></i></a>
+                  <a href="https://www.facebook.com/profile.php?id=100074733617993" target="_blank"><i class="bi bi-facebook"></i></a>
+                  <a href="https://www.instagram.com/jeanny122621/" target="_blank"><i class="bi bi-instagram"></i></a>
+                </div>
+       </div>
+       7?
     </section>
 
          <!-- Contact CTA -->
