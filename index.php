@@ -79,10 +79,10 @@
         <p>Meet the extraordinary individual who effortlessly blends charisma with kindness, making every interaction a memorable experience. With a heart as vast as their intellect, this beacon of positivity illuminates any room they enter. A connoisseur of laughter, a maestro of empathy, and a virtuoso of understanding, they navigate the intricate symphony of human connections with finesse. An advocate for joy, this bio-engineered ray of sunshine spreads warmth and good vibes wherever they go. Get ready to be inspired, uplifted, and, most importantly, loved by the one and only embodiment of infectious positivity..</p>
     </section>
 
-    <section id="portfolio" class="container mt-5">
+    <section id="portfolio" class="container mt-5 " data-aos="fade-up">
         <h2>Portfolio</h2>
         <!-- Add your projects here -->
-
+       <div class="row">
       <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
             <img src="jean.jpg" class="img-fluid" alt="">
                 <div class="social">
@@ -91,7 +91,7 @@
                   <a href="https://www.instagram.com/jeanny122621/" target="_blank"><i class="bi bi-instagram"></i></a>
                 </div>
        </div>
-       
+       </div>
     </section>
 
          <!-- Contact CTA -->
